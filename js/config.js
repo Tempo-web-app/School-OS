@@ -1,3 +1,3 @@
-// Safe for the browser: use your Supabase project's publishable/anon key here.
+// Safe for the browser: Supabase publishable keys are intended for frontend use.
 window.SCHOOL_OS_SUPABASE_URL = 'https://apsyocfxhedzrlzjdepk.supabase.co';
-window.SCHOOL_OS_SUPABASE_KEY = 'REPLACE_WITH_YOUR_SUPABASE_PUBLISHABLE_KEY';
+window.SCHOOL_OS_SUPABASE_KEY = 'sb_publishable_wa2Oe6WlzK2Rbs1dNVQ5BQ_qP8mDuVS';
